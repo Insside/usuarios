@@ -1,0 +1,1 @@
+$consulta = $this->crear($this->modulo, $this->nombre, $this->titulo, $this->descripcion, $this->creador);

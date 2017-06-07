@@ -1,0 +1,20 @@
+/**
+** Estilos Modulo de Usuarios v1.5
+** #muh = Modulo de Usuarios Historial de Acciones
+** #muij = Modulo de Usuarios Jerarquia del Usuario
+**/
+#muh{height:265px;overflow: scroll;padding: 10px;}
+#muh .encabezado{}
+#muh .fila{  display:table; overflow-wrap: break-word;}
+#muh .celda {display: table-cell;background-color: #EEE;overflow: hidden;padding: 0px 5px 0px 5px; border: 1px solid #cccccc;border-collapse: collapse;height: 20px; vertical-align: middle;font-size: 13px !important; line-height:12px;}
+
+#muij{height:180px;overflow: scroll;padding: 5px;}
+#muij .w16{width: 16px;}
+#muij .w32{width: 32px;}
+#muij .w64{width: 64px;}
+#muij .w128{width: 128px;}
+#muij .encabezado{}
+#muij .fila{  display:table; overflow-wrap: break-word;}
+#muij .celda {display: table-cell;background-color: #EEE;overflow: hidden;padding: 0px 5px 0px 5px; border: 1px solid #cccccc;border-collapse: collapse;height: 20px; vertical-align: middle;font-size: 13px !important; line-height:12px;}
+
+
